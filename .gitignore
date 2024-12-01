@@ -265,3 +265,6 @@ src/Reminder.Blazor.Server.Tiered/Logs/*
 **/wwwroot/libs/*
 /src/Reminder.HttpApi.Host/appsettings.json
 /src/Reminder.DbMigrator/appsettings.json
+/src/Reminder.Domain/BackgroundJobs/SendNotificationJob.cs
+/src/Reminder.HttpApi.Host/assets/SubmitTemplate.cshtml
+/src/Reminder.HttpApi.Host/assets/EmailTemplate.cshtml
