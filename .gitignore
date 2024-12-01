@@ -263,3 +263,5 @@ src/Reminder.Blazor.Server.Tiered/Logs/*
 
 # Use abp install-libs to restore.
 **/wwwroot/libs/*
+/src/Reminder.HttpApi.Host/appsettings.json
+/src/Reminder.DbMigrator/appsettings.json
